@@ -1,8 +1,6 @@
-# Meteor Addon Template
+# Leaue addon
 
-A template to allow easy usage of the Meteor Addon API.
+Best addon
 
-### How to use:  
-- Clone this project
-- Use this template to create new modules/commands
-- Run the mod with Meteor.
+### Credits
+me (1nject) for coding and other meteor addons i borrowed 
