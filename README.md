@@ -1,6 +1,7 @@
 # Leaue addon
 
 Best addon
+6 month project
 
 ### Credits
 me (1nject) for coding the best meteor addon out there
