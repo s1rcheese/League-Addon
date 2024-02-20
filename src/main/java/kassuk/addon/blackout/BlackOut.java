@@ -230,7 +230,6 @@ public class BlackOut extends MeteorAddon {
     }
 
     private void initializeCommands() {
-        Commands.add(new ricinGit());
         Commands.add(new AddWaypoint());
         Commands.add(new ReconnectCommand());
         Commands.add(new VelocityTeleportCMD());
