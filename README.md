@@ -11,7 +11,7 @@ u can suggested modules to be added or make a suggestion to add a module from a 
 me (1nject) for coding the best 1.20.1 meteor addon out there
 1.20.2 when idk
 
-sources used
+things i borrowed
 
 blackout (https://github.com/KassuK1/BlackOut)
 
