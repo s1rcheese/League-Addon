@@ -164,7 +164,7 @@ public class VenomCrystal extends Module {
     private final Setting<SettingColor> damageColor = sgRender.add(new ColorSetting.Builder().name("damage-color").description("The color of the damage text.").visible(renderDamage::get).defaultValue(new SettingColor(0, 0, 0, 255)).build());
 
     public VenomCrystal() {
-        super(BlackOut.COMBATPLUS, "venom-crystal", "Auto crystal made by tyrannus00.");
+        super(BlackOut.COMBATPLUS, "venom-crystal", "Auto crystal made by tyrannus00. (still in the middle of porting will crash)");
     }
 
     private byte fails;

@@ -4,7 +4,6 @@ Best addon
 
 6 month project
 
-it wont let me upload the src so idk
 ### Suggestions
 u can suggested modules to be added or add modules from a other addon in the issues
 
