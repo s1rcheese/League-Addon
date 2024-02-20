@@ -13,16 +13,29 @@ me (1nject) for coding the best 1.20.1 meteor addon out there
 
 sources used
 blackout (https://github.com/KassuK1/BlackOut)
+
 rejects (https://github.com/AntiCope/meteor-rejects)
+
 villager roller (https://github.com/maxsupermanhd/meteor-villager-roller)
+
 crash addon (https://github.com/AntiCope/meteor-crash-addon)
+
 tokyo (https://github.com/RacoonDog/Tokyo-Client)
+
 b+ (https://github.com/RickyTheRacc/banana-for-everyone)
+
 e621 hud (https://github.com/AntiCope/meteor-e621-integration)
+
 gurken's gadgetry (https://github.com/stefexec/gurkens-gadgetry-public)
+
 ikea (https://github.com/Nooniboi/Public-Ikea)
+
 meteorplus (https://github.com/Nekiplay/MeteorPlus)
+
 orion (https://github.com/AntiCope/orion)
+
 venomhack leak (https://venomhack.com/)
+
 walper (https://github.com/ridglef/walper-addon)
+
 bedtrap (https://github.com/Kiriyaga7615/bedtrap-addon)
