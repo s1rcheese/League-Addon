@@ -40,7 +40,7 @@ public class AntiPlacement extends Module {
     private boolean breaking;
 
     public AntiPlacement() {
-        super(BlackOut.COMBATPLUS, "AntiPlacement", "retarded meta to prevent placement for idk uses redstone torch");
+        super(BlackOut.COMBATPLUS, "Anti Placement", "retarded meta to prevent placement for idk uses redstone torch");
     }
 
     @EventHandler
