@@ -82,7 +82,7 @@ public class AutoSand extends Module {
     private int timer;
 
     public AutoSand() {
-        super(BlackOut.COMBATPLUS, "AutoSand", "chink meta");
+        super(BlackOut.COMBATPLUS, "Auto Sand", "chink meta");
     }
 
     @Override
