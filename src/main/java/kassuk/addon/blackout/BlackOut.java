@@ -94,6 +94,7 @@ public class BlackOut extends MeteorAddon {
         modules.add(new VillagerRoller());
         modules.add(new FlightAntikick());
         modules.add(new AnchorAura());
+        modules.add(new DubCounter());
         modules.add(new ChestExplorer());
         modules.add(new BedBomb());
         modules.add(new AnchorBomb());
@@ -230,7 +231,6 @@ public class BlackOut extends MeteorAddon {
     }
 
     private void initializeCommands() {
-        Commands.add(new ricinGit());
         Commands.add(new AddWaypoint());
         Commands.add(new ReconnectCommand());
         Commands.add(new VelocityTeleportCMD());
